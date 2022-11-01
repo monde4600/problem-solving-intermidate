@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665450184 source:e:\embided deblom\amit\c_programing\sortsum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

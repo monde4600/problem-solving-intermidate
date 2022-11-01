@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665429735 source:e:\embided deblom\amit\c_programing\file-renaming\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

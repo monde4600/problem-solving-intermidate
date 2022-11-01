@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665523736 source:e:\embided deblom\amit\c_programing\nice teams\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
